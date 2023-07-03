@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Tolemack
 - 👀 I’m interested in software development, 3D modeling, Cooking
-- 🌱 I’m currently learning GitlabCI
 - 📫 How to reach me : y.camelot@gmail.com
